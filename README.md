@@ -1,6 +1,6 @@
 # Project Title:
 
-**In-NAND Fast Cache Architecture for DRAM-Less High-Performance AI Storage Systems**
+**In-NAND Fast Cache Architecture for DRAM-Less AI Datacenter SSDs**
 
 ---
 
